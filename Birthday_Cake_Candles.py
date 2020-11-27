@@ -37,3 +37,12 @@ if __name__ == '__main__':
     result = birthdayCakeCandles(candles)
     fptr.write(str(result) + '\n')
     fptr.close()
+
+    
+    
+    
+    
+    
+    
+    
+    
